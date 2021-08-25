@@ -114,7 +114,8 @@ while (True):
 
 ## Running the Program
 I first ran through the program in PyCharm, verifying that each option does what it is supposed to do (Figure 5). 
-
+![Figure 5](/docs/Fig5a.png "Figure 5")![Figure 5](/docs/Fig5b.png "Figure 5")
+![Figure 5](/docs/Fig5c.png "Figure 5")![Figure 5](/docs/Fig5d.png "Figure 5")
 
 The script was also tested from the command window (Figure 6). 
 
