@@ -114,10 +114,11 @@ while (True):
 
 ## Running the Program
 I first ran through the program in PyCharm, verifying that each option does what it is supposed to do (Figure 5). 
-![Figure 5](/docs/Fig5a.png "Figure 5")![Figure 5](/docs/Fig5b.png "Figure 5")
-![Figure 5](/docs/Fig5c.png "Figure 5")![Figure 5](/docs/Fig5d.png "Figure 5")
+![Figure 5a](/docs/Fig5aresize.png "Figure 5a")![Figure 5b](/docs/Fig5bresize.png "Figure 5b")
+![Figure 5c](/docs/Fig5cresize.png "Figure 5c")![Figure 5d](/docs/Fig5dresize.png "Figure 5d")
 
 The script was also tested from the command window (Figure 6). 
+![Figure 6](/docs/Fig6resize.png "Figure 6")
 
 
 ## Conclusion
